@@ -1,0 +1,11 @@
+   *** Version History ***
+   
+   
+V-0.1.0: Unofficial Release
+Released: 04/21/2016
+**Libraries**
+GCorev0.2.1
+GStatsv0.1.1
+
+  --  Refactored the GCore library to take all of the time keeping and
+      related profiling tasks from it.
